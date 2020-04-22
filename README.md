@@ -19,9 +19,11 @@
 
 - Computer Science helping with
   - Data Analytics and Visualization
+  - Better and faster ways to share, access and process relevant data
+  - Modeling and Simulation - Virus Spread, Vaccines, Materials, Manufacturing, Logistics, Financial, Econonomic, Social impact
   - AI assisted search - Searching large amounts of data to drill down into pertinent information
-  - Remote working, learning, ordering and delivery, service availability
-  - General Information - local public health sites, cdc, who, johns hopkins, weather channel
+  - Remote working, learning, ordering and delivery, service availability, virtual healthcare
+  - General Information - local public health sites, CDC, WHO, Johns Hopkins, Weather Channel
 
 ## Examples
 
@@ -38,6 +40,10 @@
   As a powerful example of the potential, IBM’s Summit, the most powerful supercomputer on the planet, has already enabled researchers at the Oak Ridge National Laboratory and the University of Tennessee to screen 8,000 compounds to find those that are most likely to bind to the main “spike” protein of the coronavirus, rendering it unable to infect host cells. They were able to recommend the 77 promising small-molecule drug compounds that could now be experimentally tested. This is the power of accelerating discovery through computation.
 - [Researchers enlist Summit supercomputer to combat coronavirus](https://youtu.be/IRtBKUeAly4)
 - [The COVID-19 High Performance Computing Consortium](https://covid19-hpc-consortium.org)
+
+### Quantum computing
+
+- [Could quantum computing help beat the next coronavirus?](https://www.usatoday.com/story/tech/2020/03/05/how-quantum-computing-could-help-coronavirus-research/4931533002)
 
 ### Guidance
 
@@ -107,8 +113,21 @@
 - [How to create a Coronavirus (COVID-19) Dashboard & Map App in React with Gatsby and Leaflet](https://www.freecodecamp.org/news/how-to-create-a-coronavirus-covid-19-dashboard-map-app-in-react-with-gatsby-and-leaflet)
 - [Cool idea - abstract grouping Corid-19](https://towardsdatascience.com/how-to-get-started-analyzing-covid-19-data-808822437c32)
 
+## Simulation and Modeling
+
+- [Simulation](http://covidsim.eu)
+- [Crimson Contagion](https://en.wikipedia.org/wiki/Crimson_Contagion)
+  - Crimson Contagion was a simulation administered by the Department of Health and Human Services from January to August 2019 that tested the capacity of the U.S. federal government and twelve U.S. states to respond to a severe influenza pandemic originating in China. The exercise involves a scenario in which tourists returning from China spread a respiratory virus in the United States, beginning in Chicago. In less than two months the virus had infected 110 million Americans, killing more than half a million. The report issued at the conclusion of the exercise outlines the government's limited capacity to respond to a pandemic, with federal agencies lacking the funds, coordination, and resources to facilitate an effective response to the virus.[1][2]
+- [Simulating an Epidemic](https://youtu.be/gxAaO2rsdIs)
+- [Covid-19 Projections](http://covid19.healthdata.org/united-states-of-america)
+- [Covasim](https://github.com/institutefordiseasemodeling/covasim)
+- [Society for Simulation in Healthcare](https://www.ssih.org/COVID-19-Updates/-Helpful-Links-and-Information)
+- [Simulation-based insights to limit the spread](https://www.ansys.com/about-ansys/covid-19-simulation-insights)
+
 ## More Resources
 
+- [AZ Public Health information](https://www.maricopa.gov/5460/Coronavirus-Disease-2019)
+- [AZ Public Health information](https://webcms.pima.gov/cms/One.aspx?portalId=169&pageId=527452)
 - [Knowledge Graph of COVID-19 Literature](https://ds-covid19.res.ibm.com/about)
 - [Call for Code](https://developer.ibm.com/callforcode)
 - [Create a machine learning powered web app to answer questions](https://github.com/IBM/MAX-Question-Answering-Web-App/blob/master/README.md)
@@ -122,8 +141,4 @@
 - [Coronavirus – What we’re doing and how you can help](https://foldingathome.org/covid19)
 - [Latest Application Updates Feedback and Suggestions Data provided by Semantic Scholar ](https://www.kaggle.com/paultimothymooney/most-common-words-in-the-cord-19-dataset)
 - [COVID-19: Google And Apple Reveal More Intriguing Details Of Contact-Tracing](https://www.forbes.com/sites/forbes-personal-shopper/2020/04/13/5-of-the-best-2-in-1-laptops/#560674d526c4)
-- [Simulation](http://covidsim.eu)
-- [Crimson Contagion](https://en.wikipedia.org/wiki/Crimson_Contagion)
-  - Crimson Contagion was a simulation administered by the Department of Health and Human Services from January to August 2019 that tested the capacity of the U.S. federal government and twelve U.S. states to respond to a severe influenza pandemic originating in China. The exercise involves a scenario in which tourists returning from China spread a respiratory virus in the United States, beginning in Chicago. In less than two months the virus had infected 110 million Americans, killing more than half a million. The report issued at the conclusion of the exercise outlines the government's limited capacity to respond to a pandemic, with federal agencies lacking the funds, coordination, and resources to facilitate an effective response to the virus.[1][2]
-- [Simulating an Epidemic](https://youtu.be/gxAaO2rsdIs)
-
+- [Fight Covid-19 Online Hackathon](https://taikai.network/taikai/challenges/covid-19)
