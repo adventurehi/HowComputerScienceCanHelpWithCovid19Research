@@ -48,10 +48,10 @@
 - [Coronavirus - how can AI help?](https://melwy.com/blog/coronavirus-how-can-ai-help)
 
 - [AllenAi.org](https://allenai.org)
+- [Covid-19 Primer](https://covid19primer.com/dashboard)
 - [COVID-19 Open Research Dataset (CORD-19)](https://pages.semanticscholar.org/coronavirus-research)
-
+- [SIIRH2020 Keynote Talk III: CORD-19 by Kyle Lo and Lucy Lu Wang](https://youtu.be/geX4hSRW2vA)
 - [CORD-19 Demos and Resources](https://discourse.cord-19.semanticscholar.org/t/cord-19-demos-and-resources/132)
-
 - [CORD-19 Explorer](https://cord-19.apps.allenai.org)
 - [CoViz - use Chrome](https://coviz.apps.allenai.org/jnlpba/)
 - [Neural Covidex](https://covidex.ai/)
